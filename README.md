@@ -1,4 +1,4 @@
-# Jogo- Campo Minado
+# Jogo - Campo Minado
 
 Esse jogo foi feito com o conteúdo da disciplina de Linguagem de Programação da Universidade Federal do Rio Grande do Norte (UFRN), ministrada pelos professores Einstein Gomes dos Santos e Sérgio Queiroz de Medeiros.
 
